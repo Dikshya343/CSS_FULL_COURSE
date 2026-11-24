@@ -1,0 +1,18 @@
+#BOX1{
+    height:100px;
+    width:100px;
+    background-color: rgb(125, 172, 71);
+    font-size: 10px;
+
+}
+#BOX2{
+  
+    width:60%;
+    background-color: rgb(151, 101, 202);
+    margin-left: 40%;
+    font-size: 2em;
+    width:5rem;
+    height: 8vh;
+
+
+}

@@ -1,0 +1,25 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: rgb(125, 172, 71);
+    border: 2px solid rgb(4, 3, 3);
+    display:inline-block;
+
+    
+
+
+}
+body{
+    background-image:url("https://images.pexels.com/photos/6752296/pexels-photo-6752296.jpeg?cs=srgb");
+}
+
+#box1{
+    background-image: url("https://images.pexels.com/photos/12123087/pexels-photo-12123087.jpeg")
+    
+    
+
+    
+
+
+}
+

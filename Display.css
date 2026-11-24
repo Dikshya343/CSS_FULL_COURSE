@@ -1,0 +1,16 @@
+div{
+    
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    margin:20px;
+    padding:20px;
+    display:inline-block;
+    color:rgba(25,0,0,0.5);
+
+
+}
+#box2{
+    visibility: hidden;
+
+}

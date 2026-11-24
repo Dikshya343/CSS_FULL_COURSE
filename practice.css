@@ -1,0 +1,17 @@
+#box1 {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+
+    background-image: url("flower.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(125, 172, 71);
+    
+
+    position: fixed;
+    right: 0;
+    top:50px;
+    
+}

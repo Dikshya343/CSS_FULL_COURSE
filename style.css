@@ -1,0 +1,19 @@
+h1{
+    color:blue;
+}
+h2{
+    color:red;
+}
+h3{
+    color:rgb(119, 128, 0);
+}
+p{
+    color:rgb(41, 41, 58);
+}
+button{
+    color:#ffff00;
+    background-color:rgb(128, 0, 0);
+}
+body{
+    background-color:#42f5c5;
+}

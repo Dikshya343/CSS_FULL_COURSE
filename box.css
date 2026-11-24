@@ -1,0 +1,27 @@
+div{
+    height:50px;
+    background-color:rgb(151, 151, 224);
+    width:80px;
+    border-width:5px;
+    border-style:solid;
+}
+p{
+    
+    border-width:10px;
+    border-style:dotted;
+    border-color:rgb(39, 27, 27);
+    border-radius:10px
+}
+h1{
+    border-width:10px;
+    padding-right:10%;
+    
+    border-style:double;
+    border-color:rgb(103, 32, 32);
+    background-color:rgb(199, 131, 131);
+    text-align:center;
+}
+button{
+    border:2px solid brown;
+
+}

@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;
+}
+#container{
+    width:800px;
+    height:200px;
+    display:flex;
+    flex-direction: row;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: blue;
+}
+#box3{
+    background-color: chocolate;
+}
+#box4{
+    background-color: blueviolet;
+}
+
+#box5{
+    background-color: darkgreen;
+}
